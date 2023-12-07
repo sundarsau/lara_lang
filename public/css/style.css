@@ -1,0 +1,33 @@
+h1,h2,h3, p{
+    text-align: center;
+    margin:20px 0 20px 0;
+}
+.navbar-brand {
+margin: 0 100px 0 50px;
+}
+.navbar-nav .nav-item{
+margin-left: 50px;
+}
+.navbar-nav .nav-item .nav-link{
+font-size: 16px;
+font-weight: 500;
+color:#fff;
+}
+.lang{
+    margin-right: 100px;
+}
+.table-responsive{
+    width: 60% !important;
+    margin:auto;
+    text-align: center;
+}
+tr th {
+background-color: #07072b!important;
+color: #fff!important;
+}
+.form1{
+    margin:auto;
+    width:60%;
+}
+
+
